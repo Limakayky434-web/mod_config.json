@@ -1,7 +1,7 @@
 {
-  "antena": true,
-  "aimbot": true,
-  "hs_100": true,
+  "antena": 999,
+  "aimbot": 999,
+  "hs_100": 999,
   "fov": 360,
   "sensibilidade": 2.0
 }
