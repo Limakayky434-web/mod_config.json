@@ -1,8 +1,8 @@
 {
-  "aim_lock_type": "neck",
-  "target_id": 2,
-  "hitbox_scale": 1.5,
-  "aim_smooth": 0.5,
-  "antenna_height": 500,
-  "antenna_active": true
+  "antena_braco": true,
+  "antena_scale": 1500,
+  "aim_type": "neck_lock",
+  "hit_precision": 1.8,
+  "stick_strength": "extreme",
+  "aim_smooth": 0.2
 }
