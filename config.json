@@ -1,8 +1,10 @@
 {
-  "antena_braco": true,
-  "antena_scale": 1500,
-  "aim_type": "neck_lock",
-  "hit_precision": 1.8,
-  "stick_strength": "extreme",
-  "aim_smooth": 0.2
+  "aim_target": "chin_lock",
+  "bone_id": 2,
+  "hitbox_width": 2.5,
+  "magnetic_force": 9.0,
+  "recoil_zero": true,
+  "visual_esp": "glow_lines",
+  "esp_distance": 500,
+  "esp_color": "red"
 }
