@@ -1,7 +1,8 @@
 {
-  "antena": 999,
-  "aimbot": 999,
-  "hs_100": 999,
-  "fov": 360,
-  "sensibilidade": 2.0
+  "aim_lock_type": "neck",
+  "target_id": 2,
+  "hitbox_scale": 1.5,
+  "aim_smooth": 0.5,
+  "antenna_height": 500,
+  "antenna_active": true
 }
